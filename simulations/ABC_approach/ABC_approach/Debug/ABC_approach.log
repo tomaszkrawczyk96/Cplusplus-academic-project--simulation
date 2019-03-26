@@ -1,0 +1,22 @@
+﻿  cpu.cpp
+  cpu_queue.cpp
+  cpu_scheduler.cpp
+  event.cpp
+  event_con.cpp
+  event_con_start_io.cpp
+  event_con_start_processor.cpp
+  event_end_io.cpp
+  event_end_processor.cpp
+  event_new_process.cpp
+  fel.cpp
+  generator.cpp
+  io_device.cpp
+  io_queue.cpp
+  kernels.cpp
+  main.cpp
+c:\users\tomek krawczyk\desktop\github\simulation\simulations\abc_approach\abc_approach\main.cpp(13): warning C4326: zwracany typ "main" powinien być "int" zamiast "void"
+  process.cpp
+  rng.cpp
+  simulation.cpp
+  Generowanie kodu...
+  ABC_approach.vcxproj -> C:\Users\Tomek Krawczyk\Desktop\github\SIMULATION\simulations\ABC_approach\Debug\ABC_approach.exe
